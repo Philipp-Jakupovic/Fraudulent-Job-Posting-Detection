@@ -31,12 +31,12 @@ python main.py
 
 ## Model Performance
 
-Training accuracy: 0.9946 \
-Validation accuracy: 0.9832 \
-Test accuracy: 0.9888 \
-Precision: 0.9886 \
-Recall: 0.9888 \
-F1-score: 0.9887 \
+Training accuracy: 0.9946\
+Validation accuracy: 0.9832\
+Test accuracy: 0.9888\
+Precision: 0.9886\
+Recall: 0.9888\
+F1-score: 0.9887\
 
 ## Contributing
 
