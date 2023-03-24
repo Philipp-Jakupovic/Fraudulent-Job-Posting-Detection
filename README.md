@@ -29,7 +29,17 @@ pip install -r requirements.txt
 1. Train and test the model using default settings:
 python main.py
 
+## Model Performance
+
+Training accuracy: 0.9946
+Validation accuracy: 0.9832
+Test accuracy: 0.9888
+Precision: 0.9886
+Recall: 0.9888
+F1-score: 0.9887
+
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
